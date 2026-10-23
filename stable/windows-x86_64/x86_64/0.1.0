@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Зеркало фида обновлений на Aila: выбор источника GitHub/Aila с автофолбэком, явный статус «у вас последняя версия» (duopulse-049)",
+  "pub_date": "2026-10-23T15:19:26.522Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SllDdENjOXdZZkRwSGJLRURzTXpVbmZxTmtQekVaVlFzckNiT2tCQnNIejZTNkNCbnVXSFZlMGNVcktoNjhUUDlGKzNWQzBDV1Vmc1RCcllvVGFFbEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzY4NzIzCWZpbGU6RHVvUHVsc2VfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCnllZFpPQ0ZlUjNHQzJnTWU5UnNFZEc2bVhhb0laL3NoZjR3RUJTSndJOG1nZHlEM1RuMWZIOWZ3Zit3WDlscUFtQTk4bUlHQXZnZEV3TUZhUTA1bUJRPT0K",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.0_x64-setup.exe"
+    }
+  }
+}
