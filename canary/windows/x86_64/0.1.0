@@ -1,10 +1,10 @@
 {
   "version": "0.1.0",
   "notes": "Зеркало фида обновлений на Aila: выбор источника GitHub/Aila с автофолбэком, явный статус «у вас последняя версия» (duopulse-049)",
-  "pub_date": "2026-10-23T15:37:17.913Z",
+  "pub_date": "2026-10-23T15:42:16.154Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlVKdU5qajlPUVpFS01vazJ2T1ZmekR0eWl0Q1BKWmJ3eGhzWE5WcjRuVGRxbmM0N283Rm1VZ08wN1A5TFlyL3kwL3Z0ZFdOQmRXYjc3U3djcC9FMGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzY5ODM3CWZpbGU6RHVvUHVsc2VfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wClJISlhFZzZYYTZvK0d2MkRlOUh0ejJEQjNPQllidHFwemJ2YTg5TW9ySWNJL2o1akFXa05mS2xLeXg1ZC9QUmcrK2JmREhQNUJzK09KRzNYYkRvS0NBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlhuR1ZOVW1IZW5FTnlJYTE4WXQ4VGNvayt5WVJZZG5SeEVoL0I4eTZJbS9wZGoyMjVLUjcwcGxwZjFNQmVvMFZtdXY4N0J4ak5YaHR1SE8zZEs0VkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzcwMTM1CWZpbGU6RHVvUHVsc2VfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCllCRHMwNE1XODcvM24rLzY4dllwTnN6RGcwU0xPRko4RG5BcjZhcmJDVG5mVTJtS2t5SkJQSTVyUUl2alE3R09lQy9Eb3ZNVkUxalI2QTRDYmRSZkRnPT0K",
       "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.0_x64-setup.exe"
     }
   }
