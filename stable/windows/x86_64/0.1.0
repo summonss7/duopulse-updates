@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "0.1.1: версия в заголовке окна; полноэкранное видео — весь экран без рамок и полосы вкладок; релизы теперь всегда обновляют и портативную копию C:\\DuoPulse",
-  "pub_date": "2026-10-27T20:59:21.718Z",
+  "version": "0.1.2",
+  "notes": "0.1.2: группы избранного; субтитры из речи (ASR); доверенные скриптлеты блокировщика; улучшения и фиксы после 0.1.1.",
+  "pub_date": "2026-10-31T20:08:08.794Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmExNXM0bThYVWRGS3hLNlNnV0Z0aWxwYnQ1QjU2WGdoL1h0a29sYWJ6QVVJck01TWdLMGUzSlB3c0VOQlVMUzlYNkNuRjBKSTY4azR1VS80MXVLbWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM0NzYxCWZpbGU6RHVvUHVsc2VfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCnVUM08rQ1VvVUptU2ZQNEx5d21uektKMkJhaitpTFg4d2UwS282eHA5K3Vqck51RnJEOStGbU03eXRvaW8zWU1yQU9uNFdYUkRBR1BRVVpHRFprSEF3PT0K",
-      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlJsZjM1QUtRRnRxRkF1NTg3aGZVZ1NCYTlYZHN4djRKS1ZRdjJPaFV3U2JyeG1OcTRPUXh0VWVTRWE5OGY5WGpsSUI3SngyczdiZ3N3K1RSVlJNWmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDc3Mjg3CWZpbGU6RHVvUHVsc2VfMC4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yCjc2NjlBcHM2MVNCS2VOcTl4N1g2Q0VraXQzT1VMTCtRWHAzYTltakhKcHNKNjFOSU5PRFg4d3loZHdWaVJuOHNjR3ZGbk1GTjRJcnRFV1FWbTJyL0RRPT0K",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.2_x64-setup.exe"
     }
   }
 }
