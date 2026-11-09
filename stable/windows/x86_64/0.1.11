@@ -1,0 +1,11 @@
+{
+  "version": "0.1.11",
+  "notes": "Исправлено: адресная строка и закладки на страницах каналов YouTube (SPA-переходы через Navigation API отслеживаются — duopulse-100)",
+  "pub_date": "2026-11-09T17:26:19.295Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmJMMTdNdzh5RHJ0V0d0QzUwc1BNb3pqRkRweEx5dzNTYStQUUNXeHcwOGdMWFczREExWHB2MHhXWTI1K3RIOC83ZXJFUTYwbTRQaGpQWEJRSmI1OUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQ1MTc4CWZpbGU6RHVvUHVsc2VfMC4xLjExX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTEKN0lQeVc1MFRWZ0hnbExOVFAwTEFUZEZyM0ErOFErQ0ZCV202eExPTFhvU3FITGRlamJJdUtqa3BvTWZGS0pMNzZFNEtjME14MG9rSStWMHdtemhaQnc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.11_x64-setup.exe"
+    }
+  }
+}
