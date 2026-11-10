@@ -1,11 +1,11 @@
 {
-  "version": "0.1.14",
-  "notes": "Мобильное обновление стало устойчивым: обрыв сети больше не подвешивает скачивание навсегда (таймаут зависшего соединения + до 5 попыток с докачкой с места обрыва), кнопка «Повторить» при ошибке, уже скачанный файл не качается заново; подсказка про Play Protect в системном установщике",
-  "pub_date": "2026-11-09T20:00:18.910Z",
+  "version": "0.1.15",
+  "notes": "Мобильная версия: исправлено открытие адресов и поиска из верхней строки (в release-сборке системный вызов удалялся оптимизатором — «helper: Java exception was thrown»), добавлено меню настроек «⋮» в шапке (поисковик, проверка обновлений, версия). Десктоп — без изменений.",
+  "pub_date": "2026-11-10T05:13:47.946Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmEyV3hhOTkvUFdUZk8vQ2pWNEpUeXY0VEdvb1VXLzNVMTlyTFZyS09yTTdpTStRb2VpdzFBQW5JOWVSZlNFMTZoSUM2RXptVmVWMkduc2I3UzBzV1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU0NDE4CWZpbGU6RHVvUHVsc2VfMC4xLjE0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTQKQXRTay9XNGFxdWgvN0wzQzhoYmFZOVZJTGt2RHUwNUdYZ1hmMWJOZG1yQUdxS0NRbGp5aWJSVTVuSEtyOWxneUkzQXNKTS9mUlBXQW13cjc5YzVDQWc9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlhxOTVudVZZZDdJc3lvNHZKekRDVURNNVlrK0hKTDA5eFEySHF2YjZaL0NVNjRmMFkybGNtaWNIT1YvY3U5S1liRUcvWXh6eWNxUnh4azQ2ZFdsWlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjg3NjI3CWZpbGU6RHVvUHVsc2VfMC4xLjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTUKb2UwR3ZXbnl5QVJnQktGZWhPVTA5ekExekdRYzBpYmZiWFJqdTJVQm5DdWFJRnBSV0c2R3NCQjF3RVBqUDFRcG9nd2pZa2RpcS80TytPTFlPUWorQkE9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.15_x64-setup.exe"
     }
   }
 }

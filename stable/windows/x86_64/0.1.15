@@ -1,0 +1,11 @@
+{
+  "version": "0.1.15",
+  "notes": "Мобильная версия: исправлено открытие адресов и поиска из верхней строки (в release-сборке системный вызов удалялся оптимизатором — «helper: Java exception was thrown»), добавлено меню настроек «⋮» в шапке (поисковик, проверка обновлений, версия). Десктоп — без изменений.",
+  "pub_date": "2026-11-10T05:13:47.941Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlhxOTVudVZZZDdJc3lvNHZKekRDVURNNVlrK0hKTDA5eFEySHF2YjZaL0NVNjRmMFkybGNtaWNIT1YvY3U5S1liRUcvWXh6eWNxUnh4azQ2ZFdsWlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjg3NjI3CWZpbGU6RHVvUHVsc2VfMC4xLjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTUKb2UwR3ZXbnl5QVJnQktGZWhPVTA5ekExekdRYzBpYmZiWFJqdTJVQm5DdWFJRnBSV0c2R3NCQjF3RVBqUDFRcG9nd2pZa2RpcS80TytPTFlPUWorQkE9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.15_x64-setup.exe"
+    }
+  }
+}
