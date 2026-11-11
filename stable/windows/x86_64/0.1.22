@@ -1,11 +1,11 @@
 {
-  "version": "0.1.22",
-  "notes": "",
-  "pub_date": "2026-11-11T20:13:15.834Z",
+  "version": "0.1.23",
+  "notes": "Просмотр PDF: DuoPulse — системный просмотрщик .pdf (Windows: ассоциация файла, «Открыть с помощью», вкладка со встроенным просмотрщиком; файл при живом браузере открывается в нём же). Android: «Открыть с помощью»/«Поделиться» PDF — встроенный просмотрщик (листание, зум)",
+  "pub_date": "2026-11-11T22:34:24.992Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmVIcDBUNjViOFVwMlh3TFdKajRVTFZick9JOGhGd0ptSnQrSHVOQ2JRQWprVEhQZzNXK1Y4WDQ1c2toNzZjRUl0TlRwUG9ZekdGeWN4QW9wcjFxY2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI3OTk1CWZpbGU6RHVvUHVsc2VfMC4xLjIyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjIKLzR0UWg4WURVVnEzbnZGUzBud2V6MWZpUzU2Ylc5bTdpMGYxRDgvcGJJb0o0RHExbitlNTBZUDR4enlzelpwU1lxcnA2dmlobzdEdHNxN0lmSUxyRHc9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmVVY2NLOGNMZmkxTzVLY3NDZTk3cUZPdnpnOEs4amZmZlhLd3U2WGczQUtkZG9PZnRSSWluQWEzY3lIVko3cW1pYjhWbzdoT04yejkxbThOcnU4VkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDM2NDY0CWZpbGU6RHVvUHVsc2VfMC4xLjIzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjMKRjZJb3FyRVRLNmtuVVUzNmdwWGlJV2QzU3JzY2J5Uy8xcnJtVlRMc3RYOFJUWjJ1NU5iZnVFY0EvUVV3dHVwTVl4aSs1QnMzelcxSUc1dWpuRTRZQ2c9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.23_x64-setup.exe"
     }
   }
 }
