@@ -1,11 +1,11 @@
 {
-  "version": "0.1.30",
-  "notes": "Состояние кнопки duo (субтитры) запоминается: новые окна открываются с включёнными субтитрами, если duo был включён, и без — если выключен",
-  "pub_date": "2026-11-12T18:36:55.722Z",
+  "version": "0.1.31",
+  "notes": "Диагностика: отладочный бейдж M0 на страницах видео теперь выключен по умолчанию и включается галочкой в настройках (duopulse-129)",
+  "pub_date": "2026-11-12T19:25:28.533Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmJBU25Va1gxMnVoNEQvYUpXcEdoajIvMmRoRlJYbGFOSERjamVzQUpjL0xrQjlsbUFYSkNURFRVQmo2UzloQkJoYUxzUnhoamJXNC9kZlJKQXk0ancwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTA4NjE1CWZpbGU6RHVvUHVsc2VfMC4xLjMwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMzAKdnlOYUE3Ri9CMFMxNFgvR0VLK3JsVU5KSjFSMkxET2V2U0Fnbjh0UVJGbUJPMTh5clRlZUV5M0g0ZkxVQ2hSemEzaE5WYkd5SjBlN0drZlRCcXJFQkE9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.30_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlNsYlVPTkxVdmc5NWF5RUNvZ3AzeGNJWE13NGlBT0R0WG1hQ0VTaXVRRFVjYURjZms2T1BYN20vMmRnL3R2RTlremVsTUIzYVFnNUlQVTVNbEYwdGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTExNTI4CWZpbGU6RHVvUHVsc2VfMC4xLjMxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMzEKSThyUUFkNGYycjBzNGFGVXRuYzE1OHBUWWRKa3d4TDZ1Y1NnZUh3Zjd2eGJMVEtNT0QrTE5QRjdRQ1V6VXJkTVNqcTVhUUluRGRXdURJQVZnRmo5RHc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.31_x64-setup.exe"
     }
   }
 }
