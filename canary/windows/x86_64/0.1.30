@@ -1,0 +1,11 @@
+{
+  "version": "0.1.30",
+  "notes": "Состояние кнопки duo (субтитры) запоминается: новые окна открываются с включёнными субтитрами, если duo был включён, и без — если выключен",
+  "pub_date": "2026-11-12T18:36:55.727Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmJBU25Va1gxMnVoNEQvYUpXcEdoajIvMmRoRlJYbGFOSERjamVzQUpjL0xrQjlsbUFYSkNURFRVQmo2UzloQkJoYUxzUnhoamJXNC9kZlJKQXk0ancwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTA4NjE1CWZpbGU6RHVvUHVsc2VfMC4xLjMwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMzAKdnlOYUE3Ri9CMFMxNFgvR0VLK3JsVU5KSjFSMkxET2V2U0Fnbjh0UVJGbUJPMTh5clRlZUV5M0g0ZkxVQ2hSemEzaE5WYkd5SjBlN0drZlRCcXJFQkE9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.30_x64-setup.exe"
+    }
+  }
+}
