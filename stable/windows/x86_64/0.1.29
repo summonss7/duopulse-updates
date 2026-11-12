@@ -1,11 +1,11 @@
 {
-  "version": "0.1.31",
+  "version": "0.1.32",
   "notes": "",
-  "pub_date": "2026-11-12T22:11:24.781Z",
+  "pub_date": "2026-11-12T22:14:50.865Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmYwVzBmMlVVS2hhQ1RoNmxObDVnTG43NkNsODNXQlN6TitiMlZjbENNbUI1dFJORmkzRXlUMkV4clpqWlBhS0xJeTNpNXExRnRsNWtLT2pYbzFBZGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTIxNDg0CWZpbGU6RHVvUHVsc2VfMC4xLjMxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMzEKeWFxWThsS3JSOXJ6NFlqRGdHbkFlK1FKNUhPSnE3WTVLa3V6ZDZWNmFoUEtrRnppYVdpcFdpdGVJTmdzaFZablRNcDVmSUNwMU1lS1BxaytCbnlzQlE9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.31_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlF0NjRoZHJLUHZRa2xkWGRGTGM2RnFJUHo4aFRFTkJMOFRoT2k0RmRYNXhrMWpNelo5L1V0aWxydTEzZWx3aHVGbWQ4bnFBZ3FBRTY3YnBIU0RKZUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTIxNjkwCWZpbGU6RHVvUHVsc2VfMC4xLjMyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMzIKUE1WUi9TOEVJc2JPU0dVT0EydVQ3TUx6NEtKTE95VEdBbWYvZ1hoTEtVeER0Ly9VekFSb3VudnRRbkJybUFmQVZsZytyNVRaQWVSZVdPTGgxNGlLQXc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.32_x64-setup.exe"
     }
   }
 }
