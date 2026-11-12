@@ -1,11 +1,11 @@
 {
-  "version": "0.1.28",
-  "notes": "Мобильная ветка: поиск и обычные сайты открываются в приложении (нативный web-оверлей с тулбаром), а не в Chrome; на странице YouTube-видео — кнопка «▶ duo» открыть во встроенном плеере с субтитрами",
-  "pub_date": "2026-11-12T14:57:32.180Z",
+  "version": "0.1.29",
+  "notes": "Бар «Появилась новая версия» поверх таб-бара в Windows-версии: кнопки «Установить» и «Отмена», бар виден сразу на старте, если проверка уже нашла обновление; «Отмена» скрывает бар до перезапуска (точка на «⋮» остаётся)",
+  "pub_date": "2026-11-12T18:20:13.833Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlIrUGJzcU0ySi9MM0hxbnFPejFkeVdTT2RwN2hvZVpOK29wVUJjQnVGQm9icVdnVDlEWVc1QWhBTjVsSWU1dEJLNzVQeHVlYVRIZVdzYnk3VXM4MlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk1NDUxCWZpbGU6RHVvUHVsc2VfMC4xLjI4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjgKSXc4ajZBSGdNTUtzMmhHa1JSS2gzQWlHYXpqZHVrNDcxZXM3d1dHRGhtZ3N0Mk0yOE1COUFVaUw0RDVRdXFYREpIUzRicFpGb3QwdWl1ME5tVlVlRGc9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.28_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmIrMUlJSUpCR0JkVWNZRjJONjJxZHNMODRnMzlHTjFmaGllQUdQZUZwa1MwcUJpUkpsbE4veTZ2UmpxQm5PazRWM3dlY3E5Mm9IbmQ0UGpoUXhXdXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTA3NjEzCWZpbGU6RHVvUHVsc2VfMC4xLjI5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjkKUEUycGNEYncxY3krT050U01YWkxkSXN3REh6Yk92b0F0QXVxblAzclVjdnJIaDU3N2ZkQnl1a2tYemJWdllIWHd1aXYyc2F3VFZnYjdGK0xBZno2RHc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.29_x64-setup.exe"
     }
   }
 }
