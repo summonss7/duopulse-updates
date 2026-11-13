@@ -1,11 +1,11 @@
 {
-  "version": "0.1.43",
-  "notes": "Строка закладок под адресной строкой, как в Chrome: основные закладки чипами, группы папками — наведение на папку открывает меню, выбор пункта открывает закладку",
-  "pub_date": "2026-11-13T23:22:36.721Z",
+  "version": "0.1.44",
+  "notes": "",
+  "pub_date": "2026-11-13T23:51:13.595Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmVJOHlYNlloeW8xREJndk4rRDljVnp2MHAreGNvRTdVYlpPekRmOTkxTjE1ZG5nWW5ZREM4OCtwQkx0Qzh0bktIdnlYUjJlTGZwS0ZYclY3UVRBT3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjEyMTU2CWZpbGU6RHVvUHVsc2VfMC4xLjQzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNDMKaFg3K3BkVVc3a0kvbVR4QWNDajlnT0FnTTY1VGo3V04yTHlJQ3p2WVNtdjZSUGJjRnl0RE9Lajg2VmVwaE9uZThMR1R2bkFqeHNqMWUxWHNWeUsrRFE9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.43_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlI3SHhsaGw5QnlmNjIxZERKNkdNRU5wTlZ2T3JrdnpMSElDZEtJMDBNRStMY09UN0lpY0dhNlVHQXY1SUlhVHJVRCswaUI0cWxRUUxnQ1d5b3I4UHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjEzODczCWZpbGU6RHVvUHVsc2VfMC4xLjQ0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNDQKbzNDM0lRVE1yS1hraXR4a2tweUhhQWJ4UGRNR2VSOUFRdi9jMC9lRndhN0dZcnBhb3lUUzdQNEhHT3VUN0Y3Z3c4QW4yMGV4WTVqMEhZV1ZtTFZZQXc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.44_x64-setup.exe"
     }
   }
 }
