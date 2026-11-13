@@ -1,11 +1,11 @@
 {
-  "version": "0.1.36",
-  "notes": "",
-  "pub_date": "2026-11-13T01:44:05.666Z",
+  "version": "0.1.37",
+  "notes": "Язык интерфейса теперь общий для всего браузера и хранится в настройках; переведён хром (тулбар, меню, вкладки, бары обновления и паролей) на en/uk/ro/ar/sk",
+  "pub_date": "2026-11-13T02:09:44.569Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlMzNnFEdkQ3eXRoTnlhNkZrZjBxQW1mbkIrcFppa0NEYmU0WjNCbE5HV1lFcHhjR1dia3NBekVNSkluc0dyTjREWmc2TXNadU5zci9MZFc4WmkrdlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTM0MjQ1CWZpbGU6RHVvUHVsc2VfMC4xLjM2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMzYKbnlFYlN4KzdTSHF3U3NvSlh4VG9hWUs5ZCtLZ0tWejBWdVRPbkk4OE95ZHNHTHJHM211and1M0RvYkw1d0ZSZUJhejN5NnBzaTM5cXEwbGlKT3NoQnc9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.36_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlZRTCtWY1NrSWZ6NDhLd2dHWGN5ZVN1bFdscEErRU9aVjR2WnQ4dTA2V0JIVzVMN095QkwvL0dWMkJRek1EdklUQVNaQkVwYi9EYVp0R1RGeXhTNlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTM1Nzg0CWZpbGU6RHVvUHVsc2VfMC4xLjM3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMzcKWElFa1RvVk1pMkI5RnYvNjdWZDVCMUVtUTRQcHZNKzdGRXNXSG13TzU0Y3dMTUp0eDB4YlhPeTgrdlZWdFdxWmVVYnlEVXh4UFdhN29pbW5NYjE1Q0E9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.37_x64-setup.exe"
     }
   }
 }
