@@ -1,11 +1,11 @@
 {
-  "version": "0.1.46",
-  "notes": "",
-  "pub_date": "2026-11-14T03:23:35.100Z",
+  "version": "0.1.47",
+  "notes": "Закладки: вложенные подгруппы до 3 уровней (создание «+ подгруппа», перенос групп тягой, подменю папок в строке закладок); перенос закладки тягой чипа на папку; синк вложенности через аккаунт Aila",
+  "pub_date": "2026-11-14T17:04:19.667Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlhyRW94MU1WNTFDbHA5SXJaaEdkQitVbDR5OUVzMXYrVEFrZ3VwOXR6YVdXU2NVU2cvbGhZTFdlSi9oVWQxbzYxQW43VGQxUGRWVU1KYzlnYURpZmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjI2NjE0CWZpbGU6RHVvUHVsc2VfMC4xLjQ2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNDYKWlVVR1FFY0ZMcUh1UnNWK1JBYlVGK2xibDVPRHVtRUlUNk1mL29YWllzWjdFdHoxSDlnMlVoWk1TRm9VOWVkMHRRZnhtandmSXV5TnRwQ2dRbU93RFE9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.46_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SllPNU4vZTNST2RTRWVCanBkV2RXVEU5dGhVM21ZYWJ6aHZ4RFB2VmVwaGxKU2ZkNmFLRi94bnRCUXRtN2dzcldQUWEvN0VXOG1YRlRmaVdDNVFGamdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njc1ODU5CWZpbGU6RHVvUHVsc2VfMC4xLjQ3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNDcKTjZuaVhEUlFoSEx6VTlqTkhHdDNmOGo2UlBTWEI2Y3VmZjdhOS9aUGFKUUhWUkVaTGxtRXJzbWZOVFl3ZXdVWmFhZ0RJS0xEaG15b2pTV0tDMUoyQ3c9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.47_x64-setup.exe"
     }
   }
 }

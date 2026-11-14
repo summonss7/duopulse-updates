@@ -1,0 +1,11 @@
+{
+  "version": "0.1.47",
+  "notes": "Закладки: вложенные подгруппы до 3 уровней (создание «+ подгруппа», перенос групп тягой, подменю папок в строке закладок); перенос закладки тягой чипа на папку; синк вложенности через аккаунт Aila",
+  "pub_date": "2026-11-14T17:04:19.656Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SllPNU4vZTNST2RTRWVCanBkV2RXVEU5dGhVM21ZYWJ6aHZ4RFB2VmVwaGxKU2ZkNmFLRi94bnRCUXRtN2dzcldQUWEvN0VXOG1YRlRmaVdDNVFGamdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njc1ODU5CWZpbGU6RHVvUHVsc2VfMC4xLjQ3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNDcKTjZuaVhEUlFoSEx6VTlqTkhHdDNmOGo2UlBTWEI2Y3VmZjdhOS9aUGFKUUhWUkVaTGxtRXJzbWZOVFl3ZXdVWmFhZ0RJS0xEaG15b2pTV0tDMUoyQ3c9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.47_x64-setup.exe"
+    }
+  }
+}
