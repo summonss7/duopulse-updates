@@ -1,11 +1,11 @@
 {
-  "version": "0.1.52",
-  "notes": "",
-  "pub_date": "2026-11-15T06:43:42.111Z",
+  "version": "0.1.53",
+  "notes": "Субтитры YouTube: фикс «нет дорожек субтитров» — сбой хвостовой навигации (CONNECTION_RESET) больше не подменяет живую вкладку страницей ошибки; клипы из микса/радио (list=…&start_radio=1) снова отдают список дорожек и выгрузку .srt/.txt",
+  "pub_date": "2026-11-15T12:33:43.989Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SldQMitQZWlSOW10Z2FUTjAvUXVlRFRJdW5wQ2c1Z3Y1cVIwU1R2MEtWM0ZFUzVaNkN0S1pqSzE1VXBQTjNQZnU0SXhoRGRVcVFSZm1VdkVsZTJST2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzI1MDIxCWZpbGU6RHVvUHVsc2VfMC4xLjUyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNTIKRkZ3Z1NmMWEwVGxQa2Zpakh6NXNNbDdOb2hhMUprc09PYnRVRzJNMmtLdzBVT3ZsTWtOa1FjNUc3c3ladW40emRWNkRoWGNPa3FMdnB2OEJEL3ZLRFE9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.52_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmM4VlNwRkt4MFk3Mlhac2s5U3BRMUFsQzNXb3BBL3lHOHd0U29EM3h4bS9zaVB0cDVCNkU1QnFKN0ZQMk5aVnRUK3ZFT3hYYXhzbjZMK1FNMHRVN3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ2MDIzCWZpbGU6RHVvUHVsc2VfMC4xLjUzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNTMKYU9ETHJCQ2RPS3FsRlhwR0cydVBwR05uYzJ2dUFhYmN1bmhPZmZnYno0d3lYMlBoY04vTldLNHhqdGxVbG1zeHhYRmNwZGs5YjlraFg0ckZEbG9NQWc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.53_x64-setup.exe"
     }
   }
 }
