@@ -1,0 +1,11 @@
+{
+  "version": "0.1.60",
+  "notes": "Меню закладок: правый клик внутри папки — «Создать раздел…» (подпапки в разделах)",
+  "pub_date": "2026-11-16T19:05:03.347Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmZlMklaSk5XdVJIeFFweFZ3UVh2M1RUUGFvYVFpcU9mZW1VbXBvM0ppOUJJRlhOZkYzK1dkQXBueHkwL0hLQjFXMHdxNHhKTWJzV2xwdjVmYS9XeUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU1OTAzCWZpbGU6RHVvUHVsc2VfMC4xLjYwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNjAKTC9KeGt3N3dLSEhyaWEzSVFkU3laVmdJeW44N2pHdnlmUytybEdBYy9DSDhNeXNWZHpINENCaHhwL0hwZTk5ck9MY1Z0RXp3TGdSZ05ybjV4VXBCQkE9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.60_x64-setup.exe"
+    }
+  }
+}
