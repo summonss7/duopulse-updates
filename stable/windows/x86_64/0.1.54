@@ -1,0 +1,11 @@
+{
+  "version": "0.1.54",
+  "notes": "Субтитры на видео с несколькими озвучками (мульти-даб): язык оригинала определяется по первому аудиотреку плеера — DuoPulse показывает субтитры оригинальной озвучки (например, русские на видео «Милан»), а не автопорожние английского дубля (duopulse-159)",
+  "pub_date": "2026-11-16T03:18:30.509Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmVMU0hNeXdZT2F0SnBqREgwSVJqRlZIanl4NVRqeW9DQjRLd2ZBazd4YUYva21vdGlBc2k4NFBtUlByL1FzMHZwdmRTQzVudkZON0VnUHd3QkMzdWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzk5MTEwCWZpbGU6RHVvUHVsc2VfMC4xLjU0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNTQKRlUrc0NScmQ1dlBWZVFoMDZZRlg1T3FycnlUQVZFczYrVWVVQXEvejVEM0F6Rm92aXhEV2VBMzJDcHRoZ2Z6UGFPcGtSZisreUkvQzZ6Nnkwa2JTQWc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.54_x64-setup.exe"
+    }
+  }
+}

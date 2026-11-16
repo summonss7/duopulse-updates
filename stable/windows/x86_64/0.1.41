@@ -1,11 +1,11 @@
 {
-  "version": "0.1.53",
-  "notes": "Субтитры YouTube: фикс «нет дорожек субтитров» — сбой хвостовой навигации (CONNECTION_RESET) больше не подменяет живую вкладку страницей ошибки; клипы из микса/радио (list=…&start_radio=1) снова отдают список дорожек и выгрузку .srt/.txt",
-  "pub_date": "2026-11-15T12:33:43.978Z",
+  "version": "0.1.54",
+  "notes": "Субтитры на видео с несколькими озвучками (мульти-даб): язык оригинала определяется по первому аудиотреку плеера — DuoPulse показывает субтитры оригинальной озвучки (например, русские на видео «Милан»), а не автопорожние английского дубля (duopulse-159)",
+  "pub_date": "2026-11-16T03:18:30.509Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmM4VlNwRkt4MFk3Mlhac2s5U3BRMUFsQzNXb3BBL3lHOHd0U29EM3h4bS9zaVB0cDVCNkU1QnFKN0ZQMk5aVnRUK3ZFT3hYYXhzbjZMK1FNMHRVN3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ2MDIzCWZpbGU6RHVvUHVsc2VfMC4xLjUzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNTMKYU9ETHJCQ2RPS3FsRlhwR0cydVBwR05uYzJ2dUFhYmN1bmhPZmZnYno0d3lYMlBoY04vTldLNHhqdGxVbG1zeHhYRmNwZGs5YjlraFg0ckZEbG9NQWc9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.53_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmVMU0hNeXdZT2F0SnBqREgwSVJqRlZIanl4NVRqeW9DQjRLd2ZBazd4YUYva21vdGlBc2k4NFBtUlByL1FzMHZwdmRTQzVudkZON0VnUHd3QkMzdWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzk5MTEwCWZpbGU6RHVvUHVsc2VfMC4xLjU0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNTQKRlUrc0NScmQ1dlBWZVFoMDZZRlg1T3FycnlUQVZFczYrVWVVQXEvejVEM0F6Rm92aXhEV2VBMzJDcHRoZ2Z6UGFPcGtSZisreUkvQzZ6Nnkwa2JTQWc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.54_x64-setup.exe"
     }
   }
 }
