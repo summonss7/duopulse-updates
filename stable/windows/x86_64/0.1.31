@@ -1,11 +1,11 @@
 {
-  "version": "0.1.58",
-  "notes": "",
-  "pub_date": "2026-11-16T14:24:47.667Z",
+  "version": "0.1.59",
+  "notes": "Субтитры YouTube: оригинал показывается сразу после загрузки (не ждёт переводы и их ретраи); переводы переиспользуют дорожки, скачанные самим плеером (обход квоты tlang); щадящие повторы при 429",
+  "pub_date": "2026-11-16T17:12:50.628Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlNwNm5hTnA2REM3RHpjclRqRFNCaWgzM2lDSGVWQlhKZ1JINHJJbFF4RzlFL3B3Q1Fla0ZHaUovY0RiUWpKVG50VWhTeWpXZHF1YTZmUk9IMlNUTFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODM5MDg3CWZpbGU6RHVvUHVsc2VfMC4xLjU4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNTgKbjZzMkVsTEdXZmRia05mQ3Z1KzF4aDg4Q1QvazFIMmI2TjJlNDZ3N1FzUmhteXRNZXdkNjJaU1hicUNaSVFVc1QyS1kzd2gySEp2bjc2ZXlFZG9lRFE9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.58_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlRSYjBEQkN2VlVPa0ZNVzJ1NXpCMFdKZE1obUxnSi9WaDB1WDVrd0k5L3F0UnFrdXB4WFZRTjZVSW85dUhlWmtpL1pHcmZ5MDRDdWYyRG1FdzNaOEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODQ5MTcwCWZpbGU6RHVvUHVsc2VfMC4xLjU5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNTkKMDlTU3V3cVJQaGI1VTkzeFZJOWswSDdBek9BTDRhVmthd1MyZU1kWjNuMS9qK1dKNllLT01KQi94RHNqMVUyV2RVQ1ptd1EwbHpRUGRjR2FBeEZ3QWc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.59_x64-setup.exe"
     }
   }
 }
