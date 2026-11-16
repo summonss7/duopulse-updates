@@ -1,0 +1,11 @@
+{
+  "version": "0.1.56",
+  "notes": "",
+  "pub_date": "2026-11-16T11:37:42.323Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SldYQ092MllWNkN3bE5sR29BU2wyTXJoNURDK2dCQTJUdGlMaHJxWjd2RHdaeXFsUTV1Wml1V3FqV0dqTW1EVkF4SGNHRzVOSUphWkVRS3NVaXA0QVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI5MDYyCWZpbGU6RHVvUHVsc2VfMC4xLjU2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNTYKc0dRUk00L2Z5REtXajlHeE9ONWlZY1E5UWNtNWlGSkJadVpCVnpsMDlzellIMGQ1bkgxWmhzZ09PUXJPL0ZQMTZDTmZWTGFFcXpleEpwSW9BaGg0Qnc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.56_x64-setup.exe"
+    }
+  }
+}
