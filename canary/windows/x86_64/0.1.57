@@ -1,0 +1,11 @@
+{
+  "version": "0.1.57",
+  "notes": "Строка закладок: настоящие иконки всех сайтов (разбор <link rel=icon> + фолбэки, кэш в профиле)",
+  "pub_date": "2026-11-16T12:14:14.368Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmRTeWF3YmFSZzRZME5VSzVySkMydHhDak9Gd2NSWHg3SlhvTGZpTjlmd2l1YlFJM1FhOHpsRDdtNlFxMXZYeDNTMGxidkJpWUt1d2RmOUxRZ2tablFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODMxMjU0CWZpbGU6RHVvUHVsc2VfMC4xLjU3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNTcKSnEzbUlRRjkyK3pMYy9OK0tuOVhqTGVUdktnOG1sWFl3ZG1YM3RnUEpXUjZmaVBTbjdoNVVTbUJnMXlqWENOaExKQjNjaEpscjZoOXRWUzZlbDEvQVE9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.57_x64-setup.exe"
+    }
+  }
+}
