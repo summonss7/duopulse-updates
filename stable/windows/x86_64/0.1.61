@@ -1,0 +1,11 @@
+{
+  "version": "0.1.61",
+  "notes": "Локальное видео как в плеере: меню «Открыть видео…», перетаскивание файла в окно, ассоциации .mp4/.m4v/.mkv/.webm в Проводнике (двойной клик и «Открыть с помощью»); субтитры .srt/.vtt и сдвиг — уже были",
+  "pub_date": "2026-11-17T00:56:45.321Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmZ6cGF6Wm1IZjByWDNKNG56dW11L2dUMWdRcWdheDBVR2Q2ZEZRVndHbmRZbFFPL2MybkFDSFhnNWwra3hON3Y3UjlDdCtnV2Vxc29oM0poUEV2WUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODc3MDA1CWZpbGU6RHVvUHVsc2VfMC4xLjYxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNjEKNjhnbGk5VDlHNHVpbWpsR0lvL0NXcURuN3BVTm9BUGVCbGZxb0EzNnFVbWtRZEx3Q3RJL0FFYk9vU2paR0NtY1krK3gxRmJ1UUZMYW1qYm0xQnBpQVE9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.61_x64-setup.exe"
+    }
+  }
+}
