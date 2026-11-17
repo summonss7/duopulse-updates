@@ -1,0 +1,11 @@
+{
+  "version": "0.1.65",
+  "notes": "Субтитры: кнопка-переключатель «Оригинал и перевод местами» в меню duo и панели; шрифт и быстрые палитры цветов — в меню duo; стиль из настроек применяется к открытым видео сразу",
+  "pub_date": "2026-11-17T22:12:14.043Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlJnUjdUdUpETDM2RFNTckZsMXcvdytXV1UxNFNROE9ScUQ0ckNmSWZZN1VWYStzY0Vja0lLc1NDR1NUQmVHcm8rRFBNZnVKdVJTb0NHYjRjMnRFcXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTUzNTMzCWZpbGU6RHVvUHVsc2VfMC4xLjY1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNjUKSHNFSHJrZnlmN21BUURxbkdRZStqV3g3T2RrOW9COHlickxmTjM1R3l2QXZXbndTQ1lBdCtpdXJ1OEZrTWdWWXFFWFlSNjBwZ2NiZ0FLdFFJZndRRGc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.65_x64-setup.exe"
+    }
+  }
+}
