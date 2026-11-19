@@ -1,0 +1,11 @@
+{
+  "version": "0.1.70",
+  "notes": "Фикс адресной строки (duopulse-187): после Enter в строке (адрес или поиск) строка показывает адрес открывшейся страницы, а не остаётся с ключевыми словами поиска; то же после перехода по результатам поиска. Меню звёздочки показывает заголовок и адрес закладываемой страницы",
+  "pub_date": "2026-11-19T19:37:47.557Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmZUNWlIcFVjeGd0QzdHWjYvLzRNN0dEbERkSlMyL3F4MWNlWFIxWEhDVFZzOHZ0ZVhQTVdlbmJ4V1NVSHhiVXp4TnkyNGowS2pYRnhSMW9GcmszQ3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTE3MDY3CWZpbGU6RHVvUHVsc2VfMC4xLjcwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNzAKc3JiQi9BRTc0RThpalcwWjR1RDBUUkZpR2phU1JMNHgwd3JWam95WEJqVEVzenI4U0tzbHp5QStYMHFIT1oxaUVyNzFzNTZBUmF4aCtUMURiOGxvQmc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.70_x64-setup.exe"
+    }
+  }
+}

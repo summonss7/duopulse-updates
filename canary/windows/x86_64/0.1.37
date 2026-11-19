@@ -1,11 +1,11 @@
 {
-  "version": "0.1.68",
-  "notes": "",
-  "pub_date": "2026-11-18T20:24:46.435Z",
+  "version": "0.1.70",
+  "notes": "Фикс адресной строки (duopulse-187): после Enter в строке (адрес или поиск) строка показывает адрес открывшейся страницы, а не остаётся с ключевыми словами поиска; то же после перехода по результатам поиска. Меню звёздочки показывает заголовок и адрес закладываемой страницы",
+  "pub_date": "2026-11-19T19:37:47.578Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmJxelMzZG9KMi80b21Wd2pJNFduK0sySG9XdWFjK09lc2t6UlhDdWQzYW9MeHNMbjFiaTlXMFBjUVhaaWgvWVo0dElTcm4xaGYxS1V5V2pHVXRsekE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDMzNDg2CWZpbGU6RHVvUHVsc2VfMC4xLjY4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNjgKWXRtL2dUUExqamxqWTNwTS9SdVFZb2pHZFZabUpvZ1R5TDNBeE9xOHB4eE5tbXE5ZzVRYW90RWQ2R0s5ZTJNUDUyeVBXZGM2MTM5ZGxOcFowNUxGQVE9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.68_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmZUNWlIcFVjeGd0QzdHWjYvLzRNN0dEbERkSlMyL3F4MWNlWFIxWEhDVFZzOHZ0ZVhQTVdlbmJ4V1NVSHhiVXp4TnkyNGowS2pYRnhSMW9GcmszQ3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTE3MDY3CWZpbGU6RHVvUHVsc2VfMC4xLjcwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNzAKc3JiQi9BRTc0RThpalcwWjR1RDBUUkZpR2phU1JMNHgwd3JWam95WEJqVEVzenI4U0tzbHp5QStYMHFIT1oxaUVyNzFzNTZBUmF4aCtUMURiOGxvQmc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.70_x64-setup.exe"
     }
   }
 }
