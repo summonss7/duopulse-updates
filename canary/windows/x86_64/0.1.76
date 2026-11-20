@@ -1,0 +1,11 @@
+{
+  "version": "0.1.76",
+  "notes": "",
+  "pub_date": "2026-11-20T14:43:51.241Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlR6WUl2OWlEbDFqTHVwMjZ0VG9KQTBjaHJyVW9aMWEwUDArNGgzekx3cUtzd0dSRncrRWpoNnhZVTJYTld6Z3didSs4YnEyTUZFbWUzOGhBSUJHb3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTg1ODMwCWZpbGU6RHVvUHVsc2VfMC4xLjc2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNzYKOGhMb1htQVVkSXA3TzI0azZ5SkU5K2VVRHF2M3BpVDVFZU82RmIvZm85VmxtclJXNWRhYXFKTStBOStlTWpkNFplN2hYajFmK3p3VVZNSXpOOTJJQ1E9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.76_x64-setup.exe"
+    }
+  }
+}
