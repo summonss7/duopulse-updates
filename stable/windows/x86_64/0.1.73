@@ -1,0 +1,11 @@
+{
+  "version": "0.1.73",
+  "notes": "Адблок: сетевая блокировка и $replace заработали в кросс-доменных (OOPIF) фреймах; скриптлеты — во всех фреймах с быстрым префильтром (uakinogo: реклама плеера режется на уровне сети)",
+  "pub_date": "2026-11-20T04:17:37.787Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmRYc2lhTXB3RVBvc2lLbWdjWWgyTlZpcFY4THBjY3diMFU5MTMrS2FtNThodWdTOHFPUjYvRmNPditGOHZxSmtKV2g1UmJRYTdpL2g4eTBhaVJjZHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTQ4MjU3CWZpbGU6RHVvUHVsc2VfMC4xLjczX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNzMKZDBhcFQ3ZTc4b2dmekgwSmk3ZXd4MUFsTnU5d2pmWHJpSWJJTVJBZDJXV1dFbUV5aVBubEpTT0p0bjZHWWYwcERRWVdERHdxaHZLNUdwTkc0TXRoQlE9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.73_x64-setup.exe"
+    }
+  }
+}
