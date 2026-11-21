@@ -1,11 +1,11 @@
 {
-  "version": "0.1.81",
-  "notes": "Субтитры: потолок строки плашки — гигантские реплики-«окна» переводов больше не растягивают субтитры на весь экран (duopulse-200)",
-  "pub_date": "2026-11-21T03:50:47.569Z",
+  "version": "0.1.82",
+  "notes": "",
+  "pub_date": "2026-11-21T05:18:50.898Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlRab1dmb2tCWVgzY0p0NUdHYTB5eHd5dVRDaGJmTW14VkNJQzkxaC9mVjFZVWNCN1JDZkhBbWFkTUQvOHNJbFFrbXgxMDZiOGdpVm92OElJQUVXMHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjMzMDQ3CWZpbGU6RHVvUHVsc2VfMC4xLjgxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuODEKWit4UnU4d3ExTi9WbHNpWTZOTTdrWXc2UkFIZWVDOEdhWklWaGZNVlVuUmI5RklwblpDSGRVZi9KWUk2VEhZamI0WUJtQ3Z6eXFGZmFHVTVjV1ZZQ3c9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.81_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0Slh3OHQvQ0tEYmpaTzdTMFl6ZzNOVlRqaGZ0aThZSDBuSkpzb3Jya0xtNjBjSWpYT3YwdFpVRWoxN2ZTeURrc0xxMEtuNDlFU1F2aER0WnlQY2ZNemdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjM4MzMwCWZpbGU6RHVvUHVsc2VfMC4xLjgyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuODIKeVJOL0pVc1hSeUpYaEowOS8xdzg1NS9WMzA1a2I5aEJHdWwwd0pSUTFMeTJTTHRYbWprM05QQTVUU2lSZ2RjQmgzUUJYZDNib1Mxa29aTi9zYjNtRGc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.82_x64-setup.exe"
     }
   }
 }

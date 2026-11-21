@@ -1,0 +1,11 @@
+{
+  "version": "0.1.82",
+  "notes": "",
+  "pub_date": "2026-11-21T05:18:50.928Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0Slh3OHQvQ0tEYmpaTzdTMFl6ZzNOVlRqaGZ0aThZSDBuSkpzb3Jya0xtNjBjSWpYT3YwdFpVRWoxN2ZTeURrc0xxMEtuNDlFU1F2aER0WnlQY2ZNemdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjM4MzMwCWZpbGU6RHVvUHVsc2VfMC4xLjgyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuODIKeVJOL0pVc1hSeUpYaEowOS8xdzg1NS9WMzA1a2I5aEJHdWwwd0pSUTFMeTJTTHRYbWprM05QQTVUU2lSZ2RjQmgzUUJYZDNib1Mxa29aTi9zYjNtRGc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.82_x64-setup.exe"
+    }
+  }
+}
