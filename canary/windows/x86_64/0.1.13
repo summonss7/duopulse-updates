@@ -1,11 +1,11 @@
 {
-  "version": "0.1.79",
-  "notes": "",
-  "pub_date": "2026-11-21T00:29:06.475Z",
+  "version": "0.1.80",
+  "notes": "Реклама xHamster убрана: преролл и оверлей плеера режутся встроенным списком duopulse-tubes (сеть+скриптлеты+косметика), видео-контент не задет",
+  "pub_date": "2026-11-21T03:17:36.449Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlJubjVtS1UwajlkdFR5aW1yN2hicnFkYXRNMlNwQU5tNHJTUUhseGEySmVmbWZPb0RKWEUyelJLd1JBWi9GVFd4SmI2QTBxYncyb3dPTlF0ZHNZcFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjIwOTQ2CWZpbGU6RHVvUHVsc2VfMC4xLjc5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNzkKSG5kQ3hIN1N5dWRLbCsxUVdYV05udENtVHdiNUV2MWJnc0Y5TmtmZld0RFNZU1c1YVZuVE5UbFp6YkFGdmdXNDJBQm1HaDl0TFhhZURxUDl0TWdGQWc9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.79_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SldpTVlLS2w1M29JYVlHeDZsTW1zUW5vNjhFdmlRSEt5ZHJWT01mY2xReXA5YjB5eWxjU2szcUY4UUhnTXdBcy95SkRwL24zWHNnZkhUN1RaLzJMY0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjMxMDU2CWZpbGU6RHVvUHVsc2VfMC4xLjgwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuODAKdHpLOWNQdUxjUDVEbHhFNHlNeCttQ2RZSExQSDFicW9MczB6b280c2E5Z3dwbE01MURSTjV6ZUM0QnJHaXBFVm1OazBuRlFmdG04Y2tqOUQ2SkhaRHc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.80_x64-setup.exe"
     }
   }
 }
