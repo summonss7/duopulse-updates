@@ -1,11 +1,11 @@
 {
-  "version": "0.1.78",
-  "notes": "Производительность и «видео сами включаются»: DuoPulse больше не запускает видео сам (транспорт дорожек и nudge после рекламы уважают паузу), сворачивание/разворачивание окна больше не устраивает бурю ресайзов вкладок, детектор видео меньше дёргает layout",
-  "pub_date": "2026-11-20T20:40:17.298Z",
+  "version": "0.1.79",
+  "notes": "",
+  "pub_date": "2026-11-21T00:29:06.475Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmREYjhER0Y2a0xXRjdSNkN1ZTA3eVl2dEVZZ1BYK0ZSdnY3VTF4SzlxTUcydWNMeHpGVkVucUxvYVN5K2pWZGl1dXA5akRBRDZkQ2g1YjZEOHU0cGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjA3MjE2CWZpbGU6RHVvUHVsc2VfMC4xLjc4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNzgKSStjQm8zU2NPTmpudWR6N3czVU9Nd00zanhIcFg0ZTBOczdQWHpZOFVrdlR0VWFSczRhRzJsQ2hKZWxONCt4QitPM3Mxd0c4VWhSWGxWN2tVY28zQlE9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.78_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlJubjVtS1UwajlkdFR5aW1yN2hicnFkYXRNMlNwQU5tNHJTUUhseGEySmVmbWZPb0RKWEUyelJLd1JBWi9GVFd4SmI2QTBxYncyb3dPTlF0ZHNZcFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjIwOTQ2CWZpbGU6RHVvUHVsc2VfMC4xLjc5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNzkKSG5kQ3hIN1N5dWRLbCsxUVdYV05udENtVHdiNUV2MWJnc0Y5TmtmZld0RFNZU1c1YVZuVE5UbFp6YkFGdmdXNDJBQm1HaDl0TFhhZURxUDl0TWdGQWc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.79_x64-setup.exe"
     }
   }
 }
