@@ -1,0 +1,11 @@
+{
+  "version": "0.1.85",
+  "notes": "",
+  "pub_date": "2026-11-21T11:28:43.307Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmFwd25yOHQ3dDRLRFhrSlRXcUZYWlU3MWt4dVMxRGZqWGhIRlNlVGhIb1diakI1Si9Da1JnZUZCanpPSC8xNkVEWmJVQzlqdUJObW8wakY1b2JlS3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjYwNTIyCWZpbGU6RHVvUHVsc2VfMC4xLjg1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuODUKbVBkMGFDWU5xVDJRK2dMS2RHWGRYeU9QcjkvNEZYbkN0K3Z1NGVrMGIxUGVsNTE0RFZtK2VpR0ZDVUZGOW5KRXNsbjl2ZGhYN1h5T0R4cmxqVDNpQ1E9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.85_x64-setup.exe"
+    }
+  }
+}
