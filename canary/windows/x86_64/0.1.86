@@ -1,0 +1,11 @@
+{
+  "version": "0.1.86",
+  "notes": "Секция «Звук 5.1/7.1» в настройках: проверка системы (диагностика устройства + поканальный тест-тон) и баланс колонок; режим «применять к видео» распределяет стерео на все колонки с настраиваемым усилением каналов.",
+  "pub_date": "2026-11-21T19:48:27.223Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlpvK09nRnF2NzhOZ3NOT1NZN2pxSm1LMzZhREU0MklmOHY0QlhzNTdDTHRJTDdaekVxWTZWeTJUZGw5U0ZtWDg2WUZTZnp0cFVxVWRVSWVldmd5VWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjkwNTA2CWZpbGU6RHVvUHVsc2VfMC4xLjg2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuODYKazBIWG9xK2lkM3dkMVpxaDM4ZkFPSy9IUmxhZG5wQnJqakdXTUlOY2FIZ2ZYcm55MDVRTGtiYmlkZEFiaml1bTZOcW4zaG8zR0dWUUloMlZkKzdpQlE9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.86_x64-setup.exe"
+    }
+  }
+}
