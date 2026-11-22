@@ -1,11 +1,11 @@
 {
-  "version": "0.1.96",
-  "notes": "",
-  "pub_date": "2026-11-22T15:42:27.559Z",
+  "version": "0.1.97",
+  "notes": "Кино-сайты: двойные субтитры на дефолтном плеере uakinogo (cinemar.cc) — дорожки Русский/English перехватываются из ответа плеера, смена дубляжа сама поднимает показ и перевод облаком (duopulse-225)",
+  "pub_date": "2026-11-22T17:32:49.033Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmNUUGVQWGVOdktvcVdpUFFNaDMxb3RoZnlpRXFmSStnTWhXU1ZRUUJlTnRiNk8vWkw3N3Z5OXNyZ2MvZTVKMDFkRUxTREFoMC9GWHU4QTRSY1dpa0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzYyMTQ3CWZpbGU6RHVvUHVsc2VfMC4xLjk2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuOTYKR1dldENkamphV2hicTN0NWFnb3NkWmVqY0kwQ0NFTEd2UjR4TEFkNitUVXJZa2svRTVmQU9qSkFXQmo2THFTbEYvU0NYeXdEZEtYb0pjbHhicHV3RFE9PQo=",
-      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.96_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmJBanEydkl1R2JvelRKK0VtRWZqOFh6U1Jxc3RjYnNiVU8ybDNNTFJSOVJjR2N5VVRTbG44SU1JLzI3WGNtMmIwUVZzWDRiKzZLRWRoN0xSVUQyNGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzY4NzY4CWZpbGU6RHVvUHVsc2VfMC4xLjk3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuOTcKKzFoY2dGL21uTG1IZjhlNjJRUEw5eEc1MWhRRG05ZHZvcFlQV1l3TzNWQngxV1VGVmtHQ0xPdkY3Y1lGbG5yWWphRmdyaFhjN09FVVo0SlRZM09jQmc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.97_x64-setup.exe"
     }
   }
 }
