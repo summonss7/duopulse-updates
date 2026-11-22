@@ -1,0 +1,11 @@
+{
+  "version": "0.1.91",
+  "notes": "Субтитры: ASR-дорожки YouTube (сессии без пословного режима) больше не «застывают» на весь клип и не расходятся с переводом — строки идут построчно по таймингу слов",
+  "pub_date": "2026-11-22T01:49:50.733Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlJQTUU2bFpYVkZGcFd4Z1pDTGE0WmVZUVNZT2g5dmhSQ3BaNndsdDI1dXBTM0RLQnl1emFqMHdyTkI3bGQ5RFJwRlVvNHovWlpJRzBpVTBBT1hRb1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzEyMTkwCWZpbGU6RHVvUHVsc2VfMC4xLjkxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuOTEKZG5HQm90TExJNnl4bG1ZNUtjOERRbllTN08vNk9Dd2pOb2JBWmhLN3NvUlJWV0RGTVNpT1ZpRmpkYnBaOUJCWUNrMVJiZHdwSnU0YkJjRWIwVFRnQmc9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_0.1.91_x64-setup.exe"
+    }
+  }
+}
