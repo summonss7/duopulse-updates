@@ -1,11 +1,11 @@
 {
-  "version": "0.1.100",
-  "notes": "",
-  "pub_date": "2026-11-23T13:18:45.963Z",
+  "version": "0.1.101",
+  "notes": "Фиксы карточки 232: субтитры больше не исчезают в полном экране (Popover API поверх top layer — работает и для плеер-фреймов кино-сайтов вроде uakinogo); на кино-сайтах дуо включается из дорожек самого плеера — например английский + русский двумя строками, как на Ютубе, включая автоподбор при включении субтитров",
+  "pub_date": "2026-11-23T14:20:44.614Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SlRXb0VVUXFJek92UmR6djhXVTJxR250Q056NHhDOXdodXhxVitKN0RQMHJMKy84dTZGOFNESHBMbGVoZk5CUm1PRHk5UWMrNEt1eXlaK245SHFISlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDM0NTQxCWZpbGU6RHVvUHVsc2VfMC4xLjEwMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEwMApPZmFEcTVNTEpMYmZrcXRJSy9EK0JUNllVU3U0NnM2RmdoM0FzZ2lzU1lqS3NnMDRDLzdUQWx6UkNHaDNwWm1hTHZwekhxbnp4N1Zrbll4TW56R3RDdz09Cg==",
-      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.100_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmVrUW1vWlY1UTNpUTM0THJiNU5IVDgyQ2pta1lKMGtsN0oybkwrYWx2MjhSUUU1NEhCOVJ6Tk0rdWczUFRZeHBKK29RM0lSa3o3and1Zmplank4NUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDQzNjQ0CWZpbGU6RHVvUHVsc2VfMC4xLjEwMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEwMQozNnFTSGN4ZEFjTkJuVGx4a3VCVll6SGtBVHRCcHU3UXRrbjhIVVk3dTU2WHdrdFFZZVA5c2JpTXBkOHVqKzRHTUF0QmZvLzhub2kvNXV5VDlrdHJCZz09Cg==",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.101_x64-setup.exe"
     }
   }
 }
