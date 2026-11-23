@@ -1,0 +1,11 @@
+{
+  "version": "0.1.99",
+  "notes": "Фикс мёртвых кликов по ссылкам на кино-сайтах (uakinogo.io): кликундеры больше не съедают клики при выключенном адблоке — попап-шим window.open в контентном бандле; плюс домён второй ступени кликундера в duopulse-sites",
+  "pub_date": "2026-11-23T04:48:50.087Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmVHMkx0dVFaVlE5eWw0Y3F6L2lka1VZR2hKMVltRWNUTU5JcFJzWDJaajNQQ2RGdCtvQ05sUGVFTEVZUHZMc3cvS1FYMmJrd0pENVgrQktselBxVmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDA5MzI5CWZpbGU6RHVvUHVsc2VfMC4xLjk5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuOTkKSENrREtDL0NJUDN4NFpJd09oTVdsaW9HNVpGVGVRT3IrSmt1WFV2UU03ZVdZSS9iQVRsSG41Q3QvSHFQNE10YmNIMFR0SWZtck4waVBxYi9TaW9OQ2c9PQo=",
+      "url": "https://summonss7.github.io/duopulse-updates/stable/DuoPulse_0.1.99_x64-setup.exe"
+    }
+  }
+}
