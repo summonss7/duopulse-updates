@@ -1,7 +1,7 @@
 {
   "version": "0.1.103",
   "notes": "Технический релиз (duopulse-231): чистая сборка без предупреждений компилятора, в exe один манифест — приложения. Изменений поведения на десктопе нет; в сборку входят правки мобильной ветки карточек 235–237 (фавиконы закладок, видео-результаты Google, фоновая музыка).",
-  "pub_date": "2026-11-24T05:17:01.212Z",
+  "pub_date": "2026-11-24T05:35:28.019Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0SmVrR1dmWmVoVktaWUxKZkxSaXA4UVQ2TWQ0cFB0TTVvMEN4RVF6TmhFQVJlWG9TbEN3L3JReENnZGVHbVdrZDlLMWJ3ZzAzc1Q0UzNaVmQ0dEJXOGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDk3NDIwCWZpbGU6RHVvUHVsc2VfMC4xLjEwM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEwMwpkSmk4SmNISTJiK2dnTTBmcXVOajMxQ2tTZ0lrYWpWdFk2dHVVNmpaSlJGREJsV2c5SUpCNTEzZlZDWHdQbXRhd0JLZUh1SFZTOEhsY3FLTFI2ZXNEQT09Cg==",
