@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "notes": "",
-  "pub_date": "2026-11-25T05:37:26.786Z",
+  "pub_date": "2026-11-25T18:14:15.692Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0Slp3R0NqWXJXOGN5bWVhVW5HUEJMWW9FY2dFR1BVWnJjTmdaNUo3NExqRFJ5aXE3NmI2N01qNWNHUlova1hTNW1waktvYnZiaUZKSTlQTE5RVjVnOGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTg0ODczCWZpbGU6RHVvUHVsc2VfMS4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4yCkVybE4zUUJXdzdRd3lqRkEyRHFyQ3BlTUlYS1dSbGZQNThPS1NMTWpib2ZSWFBEdlozcncvU0g0anFjWkdNZ3NBY0ZYNWsza2VJVkNIM1pzT0E4WERBPT0K",
-      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_1.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROTZxSzNGZkU0Slg3ekFpNkdQM3JaTXRrTlQzRm84UFFlVkhndzZONGtpTXdYSnd4cEd5bURBZ2NjcFl6T3BBYjVrVEVtbkxZMkxOYzY0NGg5S0Y5WkNkTnBNVmI1amdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjMwNDU1CWZpbGU6RHVvUHVsc2VfMS4xLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4zClV6L2xPQXJxd0N2Y3c5WERZR1c4NTBScXdFYWtTZ0ZQS0M4M0k5b1RHK0RyanZ3M1hIZ3RIR1paTEFiRFNrVUpMYjhMZXVyU3lmT012czZRQitCVURnPT0K",
+      "url": "https://summonss7.github.io/duopulse-updates/canary/DuoPulse_1.1.3_x64-setup.exe"
     }
   }
 }
